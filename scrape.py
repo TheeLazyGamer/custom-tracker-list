@@ -28,6 +28,19 @@ SOURCES = [
     "https://cf.trackerslist.com/all.txt",
     "https://cf.trackerslist.com/http.txt",
     "https://cf.trackerslist.com/nohttp.txt",
+    "https://raw.githubusercontent.com/lighting9999/tracker-project/refs/heads/master/trackers_alive_ipv4only.txt",
+    "https://raw.githubusercontent.com/lighting9999/tracker-project/refs/heads/master/trackers_all.txt",
+    "https://raw.githubusercontent.com/lighting9999/tracker-project/refs/heads/master/trackers_best.txt",
+    "https://raw.githubusercontent.com/lighting9999/tracker-project/refs/heads/master/trackers_best_dual.txt",
+    "https://raw.githubusercontent.com/lighting9999/tracker-project/refs/heads/master/trackers_best_http.txt",
+    "https://raw.githubusercontent.com/lighting9999/tracker-project/refs/heads/master/trackers_best_https.txt",
+    "https://raw.githubusercontent.com/lighting9999/tracker-project/refs/heads/master/trackers_best_ipv4.txt",
+    "https://raw.githubusercontent.com/lighting9999/tracker-project/refs/heads/master/trackers_best_ipv6.txt",
+    "https://raw.githubusercontent.com/lighting9999/tracker-project/refs/heads/master/trackers_best_udp.txt",
+    "https://raw.githubusercontent.com/lighting9999/tracker-project/refs/heads/master/trackers_best_udp_wss.txt",
+    "https://raw.githubusercontent.com/lighting9999/tracker-project/refs/heads/master/trackers_best_ws.txt",
+    "https://raw.githubusercontent.com/lighting9999/tracker-project/refs/heads/master/trackers_best_wss.txt",
+    "https://raw.githubusercontent.com/slikkmulah/Qbittorent-mega-tracker-list/refs/heads/main/combined_trackers.txt",
 ]
 
 def main():
