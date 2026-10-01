@@ -1074,8 +1074,6 @@ http://211.75.205.189/announce
 
 http://211.75.205.189:6969/announce
 
-http://211.75.205.189:80/announce
-
 http://211.75.205.190/announce
 
 http://211.75.205.190:6969/announce
