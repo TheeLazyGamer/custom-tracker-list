@@ -4804,8 +4804,6 @@ https://track3r.site:443/announce
 
 https://tracker-zhuqiy.dgj055.icu/announce
 
-https://tracker-zhuqiy.dgj055.icu:443/announce
-
 https://tracker-zhuqiy.xn--1r3au8b.space/announce
 
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
