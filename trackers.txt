@@ -8080,6 +8080,8 @@ udp://opentracker.skank.i2p:6969/a
 
 udp://opentracker.xyz:443/announce
 
+udp://opentracker2.lain.moscow:6969/announce
+
 udp://opentrackr.org:1337/announce
 
 udp://openwrt.lingyurouqing.xyz:6969/announce
