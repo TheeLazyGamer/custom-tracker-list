@@ -4472,6 +4472,8 @@ https://fbiagent.cyou/announce
 
 https://fxtt.ru:80/announce
 
+https://gargoyleperch.de:443/announce
+
 https://grifon.info:80/announce
 
 https://gwp2-v19.rinet.ru/announce
