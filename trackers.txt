@@ -4472,6 +4472,8 @@ https://fbiagent.cyou/announce
 
 https://fxtt.ru:80/announce
 
+https://gargoyleperch.de/announce
+
 https://gargoyleperch.de:443/announce
 
 https://grifon.info:80/announce
@@ -5317,6 +5319,10 @@ https://tracker.yggleak.top/announce
 https://tracker.yggleak.top:443/announce
 
 https://tracker.yoshi210.com:6969/announce
+
+https://tracker.yume-hatsuyuki.moe/announce
+
+https://tracker.yume-hatsuyuki.moe:443/announce
 
 https://tracker.zhuqiy.com/announce
 
