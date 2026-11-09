@@ -4720,8 +4720,6 @@ https://torrents.linuxmint.com:443/announce.php
 
 https://torrents.tmtime.dev/announce
 
-https://torrents.tmtime.dev:443/announce
-
 https://torrentsmd.com:8080/announce
 
 https://torrentsmd.eu:8080/announce
@@ -4859,6 +4857,8 @@ https://tracker.amelia.fun:443/announce
 https://tracker.anibt.net/announce
 
 https://tracker.anibt.net:443/announce
+
+https://tracker.augrains.com/announce
 
 https://tracker.augrains.com:443/announce
 
