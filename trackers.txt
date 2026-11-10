@@ -1260,8 +1260,6 @@ http://34.66.57.33:443/announce
 
 http://34.66.57.33:6969/announce
 
-http://34.66.57.33:80/announce.php
-
 http://34.89.30.59/announce
 
 http://34.89.30.59:2710/announce
@@ -1331,8 +1329,6 @@ http://35.227.59.57:6969/announce
 http://37.120.182.83/announce
 
 http://37.120.182.83:2710/announce
-
-http://37.120.182.83:80/announce
 
 http://37.19.5.139:6969/announce
 
@@ -4452,8 +4448,6 @@ https://cny.fan:443/announce
 
 https://colibri.parrot.run/announce
 
-https://colibri.parrot.run:443/announce
-
 https://danielcloud.ddns.net/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
@@ -4719,6 +4713,8 @@ https://torrents.linuxmint.com/announce.php
 https://torrents.linuxmint.com:443/announce.php
 
 https://torrents.tmtime.dev/announce
+
+https://torrents.tmtime.dev:443/announce
 
 https://torrentsmd.com:8080/announce
 
@@ -5100,8 +5096,6 @@ https://tracker.lelux.fi:443/announce
 
 https://tracker.lenition.de/announce
 
-https://tracker.lenition.de:443/announce
-
 https://tracker.lilithraws.cf/announce
 
 https://tracker.lilithraws.cf:443/announce
@@ -5415,8 +5409,6 @@ https://w.wwwww.wtf/announce
 https://w.wwwww.wtf:443/announce
 
 https://wolf.parrot.run/announce
-
-https://wolf.parrot.run:443/announce
 
 https://wsad.run.place/announce
 
@@ -7796,6 +7788,8 @@ udp://h85-235-17-132.cust.a3fiber.se:6969/announce
 
 udp://hbsy.zhuqiy.eu.org:6666/announce
 
+udp://hidden.torrentonline.cc:42069/announce
+
 udp://hificode.in:6969/announce
 
 udp://home.kray.pw:6969/announce
@@ -8473,6 +8467,8 @@ udp://tracker.acgnx.se/announce
 udp://tracker.alaskantf.com:6969/announce
 
 udp://tracker.aletorrenty.pl:2710/announce
+
+udp://tracker.alt.cx:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
@@ -9321,8 +9317,6 @@ wss://spacetradersapi-chatbox.herokuapp.com/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 
 wss://tracker.btorrent.xyz/announce
-
-wss://tracker.btorrent.xyz:443
 
 wss://tracker.btorrent.xyz:443/announce
 
