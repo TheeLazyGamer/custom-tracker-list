@@ -550,6 +550,8 @@ http://177.172.66.210:6969/announce
 
 http://177.172.66.223:6969/announce
 
+http://177.172.66.244:6969/announce
+
 http://177.172.66.2:6969/announce
 
 http://177.172.67.13:6969/announce
@@ -850,6 +852,8 @@ http://189.79.13.111:6969/announce
 
 http://189.79.13.198:6969/announce
 
+http://190.22.55.78:1337/announce
+
 http://191.23.121.129:6969/announce
 
 http://191.23.62.111:6969/announce
@@ -1027,8 +1031,6 @@ http://211.23.142.127:6969/announce
 http://211.75.205.187/announce
 
 http://211.75.205.187:6969/announce
-
-http://211.75.205.187:80/announce
 
 http://211.75.205.188/announce
 
@@ -1319,6 +1321,8 @@ http://45.67.35.111:6969/announce
 http://45.7.231.102/announce
 
 http://46.17.46.112:8080/announce
+
+http://46.188.15.49:6969/announce
 
 http://46.231.241.43:6969/announce
 
@@ -1718,6 +1722,8 @@ http://99.192.12.191:6969/announce
 
 http://[200:1e2f:e608:eb3a:2bf:1e62:87ba:e2f7]:80/announce
 
+http://[200:6e88:638e:ac18:243a:8392:a889:7c14]:1337/announce
+
 http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:6969/announce
 
 http://[21e:6565:9c87:a49d:dafa:92c1:b33f:f21]:1337/announce
@@ -1935,6 +1941,8 @@ http://btfile.sdo.com:6961/announce
 http://btracker.top:11451/announce
 
 http://btrackrqkjp6kgelov5a3uxisis77ofxqt5nvy5hvvtoybjpmq4q.b32.i2p/announce
+
+http://btrackrqkjp6kgelov5a3uxisis77ofxqt5nvy5hvvtoybjpmq4q.b32.i2p:80/announce
 
 http://bttracker.crunchbanglinux.org:6969/announce
 
@@ -2166,6 +2174,8 @@ http://kiryuu-test.mywaifu.best:6969/announce
 
 http://kolanopentracker.airdns.org:3392/announce
 
+http://kyu.i2p:80/a
+
 http://laxclax.ddns.net00/announce
 
 http://laxclax.ddns.net:8000/announce
@@ -2262,8 +2272,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://nyaaplus.i2p/announce
 
-http://nyaaplus.i2p:80/announce
-
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.8a.is:6969/announce
@@ -2318,8 +2326,6 @@ http://opentracker.acgnx.se:80/announce
 
 http://opentracker.dg2.i2p:80/a
 
-http://opentracker.eeptorrent.i2p:80/a
-
 http://opentracker.fattydove.i2p:80/a
 
 http://opentracker.i2p.rocks:6969/announce
@@ -2328,9 +2334,9 @@ http://opentracker.io/announce
 
 http://opentracker.io:80/announce
 
-http://opentracker.r4sas.i2p:80/a
+http://opentracker.lain.moscow:6969/announce
 
-http://opentracker.simp.i2p:80/a
+http://opentracker.r4sas.i2p:80/a
 
 http://opentracker.skank.i2p:80/a
 
@@ -2383,8 +2389,6 @@ http://public.publictracker.xyz:6969/announce
 http://public.tracker.vraphim.com:6969/announce
 
 http://pubt.net:2710/announce
-
-http://qimlze77z7w32lx2ntnwkuqslrzlsqy7774v3urueuarafyqik5a.b32.i2p:80/a
 
 http://r.l5.ca:6969/announce
 
@@ -2507,8 +2511,6 @@ http://siambit.com:80/announce.php
 http://siambit.org/announce
 
 http://siambit.org/announce.php
-
-http://sigmatracker.i2p:80/a
 
 http://siwserver.duckdns.org:9900/announce
 
@@ -2934,7 +2936,7 @@ http://tracker.ilibr.org/announce
 
 http://tracker.imgdump.lol:6969/announce
 
-http://tracker.insulaocculta.i2p/a
+http://tracker.insulaocculta.i2p:80/a
 
 http://tracker.internetwarriors.net:1337/announce
 
@@ -3048,13 +3050,13 @@ http://tracker.nyaa.vc:6969/announce
 
 http://tracker.nyaa2p.i2p/announce
 
-http://tracker.nyaa2p.i2p:80/announce
-
 http://tracker.nyacat.pw:7000/announce
 
 http://tracker.nyacat.pw:7000/announce.php
 
 http://tracker.nyap2p.com:8080/announce
+
+http://tracker.okade.pro:1337/announce
 
 http://tracker.openbittorrent.com/announce
 
@@ -3230,6 +3232,8 @@ http://tracker.xn--djrq4gl4hvoi.top/announce
 
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
+http://tracker.ygg.okade.pro:1337/announce
+
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.ykat.xyz:6969/announce
@@ -3315,6 +3319,8 @@ http://tracker5.torrentino.com/announce
 http://tracker810.xyz:11450/announce
 
 http://tracker9.bol.bg/announce
+
+http://trackergjmjgh6jfqjf5db6wagbgmfh3gp2msej7z4tpdjo5cuya.b32.i2p:80/announce
 
 http://trackers.ibzu.me/announce
 
@@ -3501,6 +3507,8 @@ http://xtremewrestlingtorrents.net:80/announce.php
 http://ydlkccp.dscloud.me:6969/announce
 
 http://yet-another-public-tracker.i2p/announce
+
+http://yet-another-public-tracker.i2p:80/announce
 
 http://yggtracker.i2p.rocks/announce
 
@@ -4083,8 +4091,6 @@ https://track3r.site/announce
 https://track3r.site:443/announce
 
 https://tracker-zhuqiy.dgj055.icu/announce
-
-https://tracker-zhuqiy.dgj055.icu:443/announce
 
 https://tracker-zhuqiy.xn--1r3au8b.space/announce
 
@@ -4826,6 +4832,8 @@ udp://120.78.150.131:6969/announce
 
 udp://121.199.16.229:6969/announce
 
+udp://123.245.62.62:6969/announce
+
 udp://125.227.79.123:6969/announce
 
 udp://125.227.79.123:80/announce
@@ -5086,6 +5094,8 @@ udp://177.172.66.210:6969/announce
 
 udp://177.172.66.223:6969/announce
 
+udp://177.172.66.244:6969/announce
+
 udp://177.172.66.2:6969/announce
 
 udp://177.172.67.13:6969/announce
@@ -5183,6 +5193,8 @@ udp://182.176.139.129:6969/announce
 udp://184.105.151.166:6969/announce
 
 udp://184.105.226.26:6969/announce
+
+udp://184.174.97.26:6969/announce
 
 udp://185.100.85.201:6969/announce
 
@@ -5374,6 +5386,8 @@ udp://189.79.13.198:6969/announce
 
 udp://190.146.242.81:6969/announce
 
+udp://190.22.55.78:1337/announce
+
 udp://191.101.229.236:1337/announce
 
 udp://191.23.121.129:6969/announce
@@ -5443,6 +5457,8 @@ udp://193.53.126.6:6961/announce
 udp://194.106.216.222:80/announce
 
 udp://194.110.247.18:6969/announce
+
+udp://194.169.160.46:1212/announce
 
 udp://194.195.86.132:6969/announce
 
@@ -6274,6 +6290,8 @@ udp://85.121.148.217:2710/announce
 
 udp://85.121.5.80:6969/announce
 
+udp://85.159.231.214:1212/announce
+
 udp://85.17.19.180:80/announce
 
 udp://85.17.55.112:6969/announce
@@ -6424,7 +6442,11 @@ udp://960303.xyz:6969/announce
 
 udp://97.117.101.163:9000/announce
 
+udp://[200:6e88:638e:ac18:243a:8392:a889:7c14]:1337/announce
+
 udp://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:6969/announce
+
+udp://[21e:6565:9c87:a49d:dafa:92c1:b33f:f21]:1337/announce
 
 udp://[2a03:7220:8083:cd00::1]:451/announce
 
@@ -6968,13 +6990,13 @@ udp://open.xxtor.com:3074/announce
 
 udp://opentor.org:2710/announce
 
+udp://opentracker.dg2.i2p:6969/a
+
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://opentracker.io:6969/announce
 
 udp://opentracker.lain.moscow:6969/announce
-
-udp://opentracker.simp.i2p:6969/a
 
 udp://opentracker.skank.i2p:6969/a
 
@@ -7154,7 +7176,11 @@ udp://t.zerg.pw:6969/announce
 
 udp://t1.chfs.ch:6969/announce
 
+udp://t1.itrus.su:1212/announce
+
 udp://t1.pow7.com:6969/announce
+
+udp://t2.itrus.su:1212/announce
 
 udp://t2.leech.ie:1337/announce
 
@@ -7277,6 +7303,8 @@ udp://tracker.1048576.cn:17272/announce
 udp://tracker.1337x.org:80/announce
 
 udp://tracker.1h.is:1337/announce
+
+udp://tracker.23794.top:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
 
@@ -7471,6 +7499,8 @@ udp://tracker.iamhansen.xyz:2000/announce
 udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.ilibr.org:80/announce
+
+udp://tracker.insulaocculta.i2p:6969/a
 
 udp://tracker.internetwarriors.net:1337/announce
 
@@ -7757,6 +7787,8 @@ udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.xor.st:6969/announce
 
 udp://tracker.yangxiaoguozi.cn:6969/announce
+
+udp://tracker.ygg.okade.pro:1337/announce
 
 udp://tracker.ygsub.com:6969/announce
 
