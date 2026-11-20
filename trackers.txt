@@ -852,6 +852,8 @@ http://189.79.13.111:6969/announce
 
 http://189.79.13.198:6969/announce
 
+http://190.22.49.98:1337/announce
+
 http://190.22.55.78:1337/announce
 
 http://191.23.121.129:6969/announce
@@ -3320,6 +3322,8 @@ http://tracker810.xyz:11450/announce
 
 http://tracker9.bol.bg/announce
 
+http://trackergjmjgh6jfqjf5db6wagbgmfh3gp2msej7z4tpdjo5cuya.b32.i2p/announce
+
 http://trackergjmjgh6jfqjf5db6wagbgmfh3gp2msej7z4tpdjo5cuya.b32.i2p:80/announce
 
 http://trackers.ibzu.me/announce
@@ -4091,6 +4095,8 @@ https://track3r.site/announce
 https://track3r.site:443/announce
 
 https://tracker-zhuqiy.dgj055.icu/announce
+
+https://tracker-zhuqiy.dgj055.icu:443/announce
 
 https://tracker-zhuqiy.xn--1r3au8b.space/announce
 
@@ -5386,6 +5392,8 @@ udp://189.79.13.198:6969/announce
 
 udp://190.146.242.81:6969/announce
 
+udp://190.22.49.98:1337/announce
+
 udp://190.22.55.78:1337/announce
 
 udp://191.101.229.236:1337/announce
@@ -5927,8 +5935,6 @@ udp://45.92.156.182:2710/announce
 udp://46.138.242.240:6969/announce
 
 udp://46.17.46.112:8080/announce
-
-udp://46.188.15.49:6969/announce
 
 udp://46.231.241.43:6969/announce
 
