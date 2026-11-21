@@ -2416,8 +2416,6 @@ http://retracker.kld.ru:2710/announce
 
 http://retracker.krs-ix.ru/announce
 
-http://retracker.krs-ix.ru:80/announce
-
 http://retracker.mgts.by/announce
 
 http://retracker.ohys.net/announce
@@ -2850,8 +2848,6 @@ http://tracker.dump.cl:6969/announce
 
 http://tracker.dutchtracking.com/announce
 
-http://tracker.dutchtracking.com:80/announce
-
 http://tracker.dutchtracking.nl/announce
 
 http://tracker.dutchtracking.nl:80/announce
@@ -2965,8 +2961,6 @@ http://tracker.kali.org:6969/announce
 http://tracker.kamigami.org:2710/announce
 
 http://tracker.kicks-ass.net/announce
-
-http://tracker.kicks-ass.net:80/announce
 
 http://tracker.kisssub.org/announce
 
