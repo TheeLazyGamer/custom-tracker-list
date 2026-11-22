@@ -1040,8 +1040,6 @@ http://211.75.205.188/announce
 
 http://211.75.205.188:6969/announce
 
-http://211.75.205.188:80/announce
-
 http://211.75.205.189/announce
 
 http://211.75.205.189:6969/announce
