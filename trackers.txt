@@ -254,8 +254,6 @@ http://123.245.62.50:6969/announce
 
 http://123.245.62.53:6969/announce
 
-http://123.245.62.56:6969/announce
-
 http://123.245.62.58:6969/announce
 
 http://123.245.62.62:6969/announce
@@ -6074,8 +6072,6 @@ udp://62.212.85.66:2710/announce
 
 udp://62.60.157.92:6969/announce
 
-udp://63.32.173.135:27022/announce
-
 udp://64.23.195.62:6969/announce
 
 udp://65.108.102.76:6969/announce
@@ -7379,6 +7375,8 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.btsync.gq:233/announce
 
 udp://tracker.btzoo.eu:80/announce
+
+udp://tracker.bunk.im:6969/announce
 
 udp://tracker.ccc.de:80/announce
 
