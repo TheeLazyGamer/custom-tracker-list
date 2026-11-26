@@ -3812,6 +3812,8 @@ https://k3tracker.cc/announce
 
 https://k3tracker.cc/announce/0b0b5b2bb71770aa0df56f80a4863f07
 
+https://lattice.peerrelay.workers.dev/announce
+
 https://lattice.peerrelay.workers.dev:443/announce
 
 https://lima-peru.subventas.com/announce
